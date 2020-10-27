@@ -15,6 +15,12 @@ git add *  ou git add . = adiciona todos os arquivos para staged.
 
 **git remote add origin** {address} = 
 
+**git push origin master** = Empurrar para o remoto
+
+**git pull origin master** = Puxar para o local
+
+**git clone** {adress} = Clonar um repositorio
+
 ## Comandos de Configuração
 
 **git config --list** =  Lista todas configurações no Git.
