@@ -7,4 +7,4 @@ Essa linha eu adicionei diretamente no site!   *QUE IMPRESSIONANTE!*
 
 $ Update
 
-Integração aos comandos do Git.
+Introdução aos comandos do Git.
